@@ -8,7 +8,7 @@
         <entry key="app/src/main/res/layout/activity_unit.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_crime.xml" value="0.3255208333333333" />
         <entry key="app/src/main/res/layout/fragment_crime_list.xml" value="0.16145833333333334" />
-        <entry key="app/src/main/res/layout/list_item_crime.xml" value="0.3255208333333333" />
+        <entry key="app/src/main/res/layout/list_item_crime.xml" value="0.75" />
         <entry key="app/src/main/res/layout/list_item_crime_police.xml" value="0.3255208333333333" />
       </map>
     </option>
